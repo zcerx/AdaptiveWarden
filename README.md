@@ -1,4 +1,4 @@
-# Adaptive_Warden
+# Adaptive Warden
 
 The Adaptive Warden bases the selection of its active rules based on the observed traffic.
 
