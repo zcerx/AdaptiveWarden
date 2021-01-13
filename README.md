@@ -6,7 +6,7 @@ This repository accompanies the following paper submission:
 
 M. Chourib, S. Wendzel, W. Mazurczyk: *Eliminating Network Covert Channels with the Adaptive Warden*.
 
-The adaptive warden bases the selection of its active filter rules depending on the observed traffic (as described in our paper; currently under review).
+The adaptive warden bases the selection of its active filter rules depending on the observed traffic (as described in our paper; currently under review). The full documentation of the tool will be made available in parallel to the paper's camera-ready version in case of acceptance (for now, the details of the warden are only described in the submitted paper).
 
 #### Adaptive filter CLI options
 
