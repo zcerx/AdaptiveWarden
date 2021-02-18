@@ -1,6 +1,6 @@
 # Adaptive Warden
 
-The *adaptive warden* is a novel countermeasure for adaptive network covert channels. It limits the bitrate of adaptive covert channels more efficiently than the state-of-the-art approach (the *[dynamic warden](https://www.sciencedirect.com/science/article/pii/S0167739X18316133)*). It was implemented by M. Chourib. For the simulation of such covert channels, one can use the [NELtool](https://github.com/cdpxe/NELphase).
+The *adaptive warden* is a novel countermeasure for sophisticated network covert channels. Such covert channels are capable of constantly learning about the network environment in which they operate in order to detect unblocked covert channels. The adaptive warden limits the bitrate of such covert channels more efficiently than the state-of-the-art approach (the *[dynamic warden](https://www.sciencedirect.com/science/article/pii/S0167739X18316133)*). It was implemented by M. Chourib. For the simulation of such covert channels, one can use the [NELtool](https://github.com/cdpxe/NELphase).
 
 This repository accompanies the following paper submission:
 
